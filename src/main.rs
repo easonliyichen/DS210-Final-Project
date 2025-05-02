@@ -64,3 +64,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 // Intermediate commit: added comment for milestone tracking
 
+
+//analyzes student lifestyle and academic performance data using graph algorithms.
+//Constructs a similarity-based graph connecting students with similar habits
+//Analyzes score averages across behavioral clusters
